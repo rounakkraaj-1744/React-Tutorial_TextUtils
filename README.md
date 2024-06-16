@@ -8,6 +8,6 @@ Used React-router-dom for handling the single page stuff seamlessly.
 
 With pretty minimal functionalities and no vigour styling
 
-#In order to start working with my project
+# In order to start working with my project
 clone it to your system
-run the npm i command
+move to the folder and run the npm i command
